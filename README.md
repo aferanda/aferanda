@@ -9,7 +9,7 @@
   <img align='center' alt='amanda-HTML' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
   <img align='center' alt='amanda-CSS' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
   <img align='center' alt='amanda-JS' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
-  <!-- <img align='center' alt='amanda-Python' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> -->
+  <img align='center' alt='amanda-Python' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
 </div>
 
 ##
