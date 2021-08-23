@@ -1,9 +1,9 @@
-### Oii, eu sou a Amanda!
+## Oiii! Eu sou a Amanda
 
 <div>
     <a href='https://github.com/aferanda'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api?username=aferanda&show_icons=true&theme=tokyonight&border_radius=10px&include_all_commits=true&count_private=true'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=aferanda&layout=compact&langs_count=7&theme=tokyonight&border_radius=10px'>
+    <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=aferanda&layout=compact&langs_count=7&theme=tokyonight&border_radius=10px'>
 </div>
 <div style='display: inline_block'><br>
   <img align='center' alt='amanda-HTML' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
