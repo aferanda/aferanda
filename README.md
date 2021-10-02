@@ -1,22 +1,26 @@
-## Oiii! Eu sou a Amanda
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+
+![](https://img.shields.io/badge/JavaScript-informational?labelColor=5A5A5A&logo=javascript&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/macOS-informational?&labelColor=5A5A5A&logo=macos&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/HTML5-informational?labelColor=5A5A5A&logo=html5&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/CSS3-informational?labelColor=5A5A5A&logo=css3&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/Python-informational?labelColor=5A5A5A&logo=python&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/React-informational?labelColor=5A5A5A&logo=react&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/GitHub-informational?labelColor=5A5A5A&logo=github&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/Git-informational?labelColor=5A5A5A&logo=git&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/Node.js-informational?labelColor=5A5A5A&logo=nodedotjs&logoColor=white&style=flat&color=38BBAD)
+
 
 <div>
     <a href='https://github.com/aferanda'>
-    <img height='160em' src='https://github-readme-stats.vercel.app/api?username=aferanda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true'/>
-    <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=aferanda&layout=compact&langs_count=7&theme=tokyonight'/>
-</div>
-<div style='display: inline_block'><br>
-  <img align='center' alt='amanda-HTML' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
-  <img align='center' alt='amanda-CSS' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
-  <img align='center' alt='amanda-JS' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
-  <img align='center' alt='amanda-Python' width='40' height='30' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
+    <img height='140em' src='https://github-readme-stats.vercel.app/api?username=aferanda&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=38BBAD'/>
+    <img height='140em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=aferanda&layout=compact&langs_count=7&theme=tokyonight&title_color=38BBAD'/>
 </div>
 
 ##
     
-<div>
-    <a href='https://linkedin.com/in/aferanda' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-    <a href='mailto:aferanda@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-</div>
+
     
 ![Snake animation](https://github.com/aferanda/aferanda/blob/output/github-contribution-grid-snake.svg)
