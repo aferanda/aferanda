@@ -8,7 +8,7 @@
 - I'm a tax accountant and I'm currently studying **Systems Analysis and Development**.
 - I live in Brazil in the city of Niterói - RJ.
 
-## Languages and Tools
+## Technologies and Tools
 
 ![](https://img.shields.io/badge/JavaScript-informational?labelColor=5A5A5A&logo=javascript&logoColor=white&style=flat&color=38BBAD)
 ![](https://img.shields.io/badge/macOS-informational?&labelColor=5A5A5A&logo=macos&logoColor=white&style=flat&color=38BBAD)
