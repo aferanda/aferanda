@@ -10,12 +10,13 @@
 
 ## Technologies and Tools
 
-![](https://img.shields.io/badge/JavaScript-informational?labelColor=5A5A5A&logo=javascript&logoColor=white&style=flat&color=38BBAD)
-![](https://img.shields.io/badge/macOS-informational?&labelColor=5A5A5A&logo=macos&logoColor=white&style=flat&color=38BBAD)
 ![](https://img.shields.io/badge/HTML5-informational?labelColor=5A5A5A&logo=html5&logoColor=white&style=flat&color=38BBAD)
 ![](https://img.shields.io/badge/CSS3-informational?labelColor=5A5A5A&logo=css3&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/JavaScript-informational?labelColor=5A5A5A&logo=javascript&logoColor=white&style=flat&color=38BBAD)
 ![](https://img.shields.io/badge/Python-informational?labelColor=5A5A5A&logo=python&logoColor=white&style=flat&color=38BBAD)
 ![](https://img.shields.io/badge/React-informational?labelColor=5A5A5A&logo=react&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/Redux-informational?labelColor=5A5A5A&logo=redux&logoColor=white&style=flat&color=38BBAD)
+![](https://img.shields.io/badge/macOS-informational?&labelColor=5A5A5A&logo=macos&logoColor=white&style=flat&color=38BBAD)
 ![](https://img.shields.io/badge/GitHub-informational?labelColor=5A5A5A&logo=github&logoColor=white&style=flat&color=38BBAD)
 ![](https://img.shields.io/badge/Git-informational?labelColor=5A5A5A&logo=git&logoColor=white&style=flat&color=38BBAD)
 ![](https://img.shields.io/badge/Node.js-informational?labelColor=5A5A5A&logo=nodedotjs&logoColor=white&style=flat&color=38BBAD)
