@@ -31,7 +31,3 @@
 </div>
 
 ##
-    
-
-    
-![Snake animation](https://github.com/aferanda/aferanda/blob/output/github-contribution-grid-snake.svg)
