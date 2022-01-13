@@ -1,24 +1,5 @@
 <h1 align='center'>Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align='center'>My name is Amanda Fernandes.</h3>
-
-## About Me
-
-- I'm a **Web Development** student at [Trybe](https://www.betrybe.com/).
-- I'm a tax accountant and I'm currently studying **Systems Analysis and Development**.
-
-## Technologies and Tools
-
-![](https://img.shields.io/badge/Git-informational?labelColor=5A5A5A&logo=git&logoColor=white&style=flat&color=38BBAD)
-![](https://img.shields.io/badge/GitHub-informational?labelColor=5A5A5A&logo=github&logoColor=white&style=flat&color=38BBAD)
-![](https://img.shields.io/badge/HTML5-informational?labelColor=5A5A5A&logo=html5&logoColor=white&style=flat&color=38BBAD)
-![](https://img.shields.io/badge/CSS3-informational?labelColor=5A5A5A&logo=css3&logoColor=white&style=flat&color=38BBAD)
-![](https://img.shields.io/badge/JavaScript-informational?labelColor=5A5A5A&logo=javascript&logoColor=white&style=flat&color=38BBAD)
-![](https://img.shields.io/badge/Python-informational?labelColor=5A5A5A&logo=python&logoColor=white&style=flat&color=38BBAD)
-![](https://img.shields.io/badge/React-informational?labelColor=5A5A5A&logo=react&logoColor=white&style=flat&color=38BBAD)
-![](https://img.shields.io/badge/Redux-informational?labelColor=5A5A5A&logo=redux&logoColor=white&style=flat&color=38BBAD)
-
-
 ## My GitHub Stats
 
 <div>
