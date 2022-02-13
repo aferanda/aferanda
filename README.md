@@ -1,7 +1,7 @@
 ## Hello, world!
 
 - 👩‍💻 I'm a **Front-end Web Developer**.
-- 🌱 Now, I'm learning 🔙🔚
+- 🌱 I’m currently learning 🔙🔚
   
 ---
 ### Technologies and tools: 
@@ -18,6 +18,6 @@
 ---
 <div>
   <a href='https://github.com/aferanda'>
-  <img height='160em' src='https://github-readme-stats.vercel.app/api?username=aferanda&show_icons=true&count_private=true&theme=tokyonight'/>
-  <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=aferanda&layout=compact&langs_count=10&theme=tokyonight'/>
+  <img height='160em' src='https://github-readme-stats.vercel.app/api?username=aferanda&show_icons=true&count_private=true&theme=tokyonight' />
+  <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=aferanda&layout=compact&langs_count=10&theme=tokyonight' />
 </div>
