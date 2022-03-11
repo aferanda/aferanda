@@ -18,6 +18,6 @@
 ---
 <div>
   <a href='https://github.com/aferanda'>
-  <img height='160em' src='https://github-readme-stats.vercel.app/api?username=aferanda&show_icons=true&count_private=true&theme=tokyonight' />
-  <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=aferanda&layout=compact&langs_count=10&theme=tokyonight' />
+  <img height='160em' src='https://github-readme-stats.vercel.app/api?username=aferanda&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight' />
+  <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=aferanda&layout=compact&hide=shell&langs_count=8&theme=tokyonight' />
 </div>
