@@ -3,26 +3,21 @@
 - 👩‍💻 I'm a **Front-end Web Developer**.
 - 🌱 I’m currently learning 🔙🔚
   
----
+#
 ### Technologies and tools: 
-<div>
-  <img align="center" width="40" height="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" width="40" height="40" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" width="40" height="40" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" width="40" height="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" width="40" height="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" width="40" height="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" width="40" height="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" width="40" height="40" alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" width="40" height="40" alt="jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" width="40" height="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" width="40" height="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" width="40" height="40" alt="node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" width="40" height="40" alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" width="40" height="40" alt="sequelize" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-</div>
 
----
+![HTML5](https://img.shields.io/badge/HTML5-informational?labelColor=5A5A5A&logo=html5&style=flat&logoWidth=20&logoColor=fff&color=EA6226)
+![CSS3](https://img.shields.io/badge/CSS3-informational?labelColor=5A5A5A&logo=css3&style=flat&logoWidth=20&logoColor=fff&color=58A9E6)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?labelColor=5A5A5A&logo=javascript&style=flat&logoWidth=20&logoColor=fff&color=FCDC00)
+![React](https://img.shields.io/badge/React-informational?labelColor=5A5A5A&logo=react&style=flat&logoWidth=20&logoColor=fff&color=5ED3F3)
+![Redux](https://img.shields.io/badge/Redux-informational?labelColor=5A5A5A&logo=redux&style=flat&logoWidth=20&logoColor=fff&color=7D41BC)
+![Docker](https://img.shields.io/badge/Docker-informational?labelColor=5A5A5A&logo=docker&style=flat&logoWidth=20&logoColor=fff&color=1F86C0)
+![NodeJS](https://img.shields.io/badge/NodeJS-informational?labelColor=5A5A5A&logo=nodedotjs&style=flat&logoWidth=20&logoColor=fff&color=8CBF3D)
+![Express](https://img.shields.io/badge/Express-informational?labelColor=5A5A5A&logo=express&style=flat&logoWidth=20&logoColor=fff&color=5194AA)
+![MySQL](https://img.shields.io/badge/MySQL-informational?labelColor=5A5A5A&logo=mysql&style=flat&logoWidth=20&logoColor=fff&color=DC712D)
+![Prisma](https://img.shields.io/badge/Prisma-informational?labelColor=5A5A5A&logo=prisma&style=flat&logoWidth=20&logoColor=fff&color=0C3249)
+
+#
 <div>
   <a href='https://github.com/aferanda'>
   <img height='152em' src='https://github-readme-stats.vercel.app/api?username=aferanda&show_icons=true&count_private=true&theme=tokyonight' />
